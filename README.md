@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**AravindhPrabu2005/AravindhPrabu2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=I'm+a+Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Java+%7C+PostgreSQL" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I'm a Computer Science student and passionate Full Stack Developer.  
+I build modern, scalable web apps using **MERN Stack**. 
+Currently exploring opportunities in **SDE roles**, working on real-world projects that bridge software and hardware, and leading tech initiatives at my college.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend**: React.js, HTML, CSS, JavaScript, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB, PostgreSQL  
+- **Tools**: Git, GitHub, Postman 
+- **Others**: REST APIs, Bootstrap
+
+---
+
+
+### 🤝 Connect with Me
+
+Feel free to connect for collaborations, internships, or idea exchanges!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aravindhprabu-full-stack-developer/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/your-id" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="[mailto:your-email@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=aravindhprabu2005@gmail.com)">
+    <img alt="Gmail" src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
