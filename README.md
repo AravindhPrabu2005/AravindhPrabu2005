@@ -33,9 +33,9 @@ Feel free to connect for collaborations, internships, or idea exchanges!
   <a href="https://www.linkedin.com/in/aravindhprabu-full-stack-developer/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discordapp.com/users/your-id" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+  <a href="https://medium.com/@aravindhprabu2005" target="_blank">
+  <img alt="Medium" src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aravindhprabu2005@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
