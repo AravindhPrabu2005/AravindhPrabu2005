@@ -36,7 +36,7 @@ Feel free to connect for collaborations, internships, or idea exchanges!
   <a href="https://discordapp.com/users/your-id" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="[mailto:your-email@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=aravindhprabu2005@gmail.com)">
+  <a href="mailto:your-email@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=aravindhprabu2005@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
