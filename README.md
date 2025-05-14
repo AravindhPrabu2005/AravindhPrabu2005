@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=I'm+a+Full+Stack+Developer;%7C+React.js+%7C+MongoDB+%7C+Node.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=I'm+a+Full+Stack+Developer;%7C+React.js+%7C+MongoDB+%7C+Node.js+%7C" />
 </p>
 
 ---
